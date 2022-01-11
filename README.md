@@ -3,5 +3,6 @@ A minecraft datapack that simply allows smelting of raw ore blocks such as the r
 
 - Raw Copper Block becomes Copper Block
 - Raw Iron Block becomes Iron Block
+- Raw Gold Block becomes Gold Block
 
 The smelting time and XP returned is equivalent to smelting the raw ores 9 times.
